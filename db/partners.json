@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Додо пицца",
+    "time_of_delivery": 50,
+    "stars": 4.5,
+    "price": 9,
+    "kitchen": "Пицца",
+    "image": "img/dodo/preview.jpg",
+    "products": "dodo.json"
+  },
+  {
+    "name": "Тануки",
+    "time_of_delivery": 60,
+    "stars": 4.3,
+    "price": 10,
+    "kitchen": "Суши, роллы",
+    "image": "img/tanuki/preview.jpg",
+    "products": "tanuki.json"
+  },
+  {
+    "name": "Papa John’s",
+    "time_of_delivery": 40,
+    "stars": 4.4,
+    "price": 4.5,
+    "kitchen": "Пицца",
+    "image": "img/papa/preview.jpg",
+    "products": "papa.json"
+  },
+  {
+    "name": "McDonald’s",
+    "time_of_delivery": 55,
+    "stars": 4.1,
+    "price": 5,
+    "kitchen": "Фаст фуд",
+    "image": "img/mcdon/preview.jpg",
+    "products": "mcdon.json"
+  },
+  {
+    "name": "Kentucky Fried Chicken",
+    "time_of_delivery": 40,
+    "stars": 4.7,
+    "price": 10,
+    "kitchen": "Фаст фуд",
+    "image": "img/kfc/preview.jpg",
+    "products": "kfc.json"
+  },
+  {
+    "name": "Burger King",
+    "time_of_delivery": 45,
+    "stars": 4.6,
+    "price": 7,
+    "kitchen": "Фаст фуд",
+    "image": "img/bk/preview.jpg",
+    "products": "bk.json"
+  }
+]
